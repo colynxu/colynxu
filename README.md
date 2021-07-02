@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+你好，我是Colynxu，做为低端肥宅，我是一枚只会搬砖的社畜，算命先生说我五行缺钱，所以一直处于“人间不清醒，事事不明白”的状态。。。
 <!--
 **colynxu/colynxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
