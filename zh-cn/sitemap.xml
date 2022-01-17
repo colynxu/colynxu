@@ -7,10 +7,6 @@
                         hreflang="en"
                         href="https://blog.colyn.im/categories/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.colyn.im/fr/categories/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://blog.colyn.im/zh-cn/categories/"
@@ -20,10 +16,6 @@
                         hreflang="en"
                         href="https://blog.colyn.im/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.colyn.im/fr/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://blog.colyn.im/zh-cn/"
@@ -32,10 +24,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="https://blog.colyn.im/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.colyn.im/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"

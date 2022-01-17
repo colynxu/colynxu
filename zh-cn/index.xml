@@ -2,7 +2,7 @@
     <channel>
         <title>Felicity</title>
         <link>https://blog.colyn.im/zh-cn/</link>
-        <description>关于 LoveIt 主题</description>
+        <description>Colyn的愚笨生活</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://blog.colyn.im/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         </channel>

@@ -7,10 +7,6 @@
                         hreflang="zh-cn"
                         href="https://blog.colyn.im/zh-cn/categories/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.colyn.im/fr/categories/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="en"
                     href="https://blog.colyn.im/categories/"
@@ -20,23 +16,14 @@
                         hreflang="zh-cn"
                         href="https://blog.colyn.im/zh-cn/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.colyn.im/fr/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="en"
                     href="https://blog.colyn.im/"
                     /></url><url>
-            <loc>https://blog.colyn.im/post/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.colyn.im/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://blog.colyn.im/zh-cn/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.colyn.im/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
